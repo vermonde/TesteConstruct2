@@ -71,6 +71,7 @@
 					"locked": false,
 					"world": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 						"x": 748,
 						"y": 418,
 						"width": 83,
@@ -81,6 +82,12 @@
 						"width": 250,
 						"height": 250,
 >>>>>>> eab3ac0043ad86235f9d81a9f87ec69bc22e1095
+=======
+						"x": 518,
+						"y": 146,
+						"width": 250,
+						"height": 250,
+>>>>>>> parent of 769e0f1 (mudancas)
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
